@@ -1,3 +1,5 @@
 /*.js
 node_modules
 dist
+jest.config.ts
+tsconfig.json
